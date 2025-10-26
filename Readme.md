@@ -1,11 +1,11 @@
-# 💾 Layoffs Data Cleaning (SQL)
+# 💾 Layoffs Data Cleaning (MySQL)
 
-A SQL-based project focused on cleaning and preparing layoff data for analysis.
+A MySQL-based project focused on cleaning and preparing layoff data for analysis.
 
 ---
 ## 🛠 Tools Used
 - MySQL Workbench  
-- SQL (SELECT, UPDATE, DELETE, JOIN, GROUP BY, CTE)
+- MySQL (SELECT, UPDATE, DELETE, JOIN, GROUP BY, CTE)
 ---
 ## 🎯 Objectives
 - Remove duplicates  
@@ -14,7 +14,7 @@ A SQL-based project focused on cleaning and preparing layoff data for analysis.
 - Ensure data consistency
 ---
 ## 📂 Files
-- Layoffs project data cleaning.sql
+- https://github.com/Muna5abdullah/Layoffs-project-data-cleaning/blob/main/Layoffs%20project%20data%20cleaning.sql
 ---
 ## 🔍 Key Results
 1️⃣ Data Cleaning: Missing and Duplicate Values  
@@ -25,3 +25,12 @@ A SQL-based project focused on cleaning and preparing layoff data for analysis.
 
 3️⃣ Removed Invalid and Outlier Values  
 - Identified and removed invalid or outlier values across different columns, enhancing data accuracy and reliability.
+---
+## 📷 Sample MySql Process & Code Steps 
+![1](1.jpg)
+![2](2.jpg)
+![3](3.jpg)
+![4](4.jpg)
+![5](5.jpg)
+![6](6.jpg)
+
