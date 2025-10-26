@@ -27,7 +27,7 @@ A MySQL-based project focused on cleaning and preparing layoff data for analysis
 - Identified and removed invalid or outlier values across different columns, enhancing data accuracy and reliability.
 ---
 ## 📷 Sample MySql Process & Code Steps 
-![1](images/1.jpg)
+<img src="images/1.jpg" width="550">
 ![2](images/2.jpg)
 ![3](images/3.jpg)
 ![4](images/4.jpg)
