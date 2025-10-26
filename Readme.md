@@ -16,7 +16,7 @@ A MySQL-based project focused on cleaning and preparing layoff data for analysis
 ## 📂 Files
 - https://github.com/Muna5abdullah/Layoffs-project-data-cleaning/blob/main/Layoffs%20project%20data%20cleaning.sql
 ---
-## 🔍 Key Results
+## 🏆 Key Results
 1️⃣ Data Cleaning: Missing and Duplicate Values  
 - Removed rows with missing or duplicate values using SQL queries, improving overall data quality.
 
