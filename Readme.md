@@ -28,5 +28,10 @@ A MySQL-based project focused on cleaning and preparing layoff data for analysis
 ---
 ## 📷 Sample MySql Process & Code Steps 
 ![1](images/1.jpg)
+![2](images/2.jpg)
+![3](images/3.jpg)
+![4](images/4.jpg)
+![5](images/5.jpg)
+![6](images/6.jpg)
 
 
